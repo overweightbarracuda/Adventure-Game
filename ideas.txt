@@ -6,7 +6,7 @@ can be controlled to focus attack on certain opponent minions
 If no enemy minions exist, the opponent hero can be attacked.
 
 Characters:
-Broodmother
+Brood Mother
 easier to summon minions but minions are weaker.
 Mage
 minions stay at base strength but mage has access to more abilities
