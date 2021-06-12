@@ -1,0 +1,14 @@
+Minions:
+cost mana to summon, stronger = more expensive
+fight other minions
+no types, only strength and ability differences
+can be controlled to focus attack on certain opponent minions
+If no enemy minions exist, the opponent hero can be attacked.
+
+Characters:
+Broodmother
+easier to summon minions but minions are weaker.
+Mage
+minions stay at base strength but mage has access to more abilities
+Commander
+stronger minions but less focus on magic
